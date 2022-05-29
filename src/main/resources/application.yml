@@ -7,4 +7,4 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create
-DB: localhost
+DB: jmsbootdb.c9jeel1uvhsr.eu-west-3.rds.amazonaws.com
